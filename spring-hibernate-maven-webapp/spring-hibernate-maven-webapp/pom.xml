@@ -154,15 +154,8 @@
 	<distributionManagement>
         <repository>
             <id>releases</id>
-            <url>http://35.229.43.132:8081/nexus/content/repositories/releases/</url>
-    </repository>
-<snapshotRepository>
-<id>snapshots</id>
-<name>snapshotRepo</name>
-<url>http://35.229.43.132:8081/nexus/content/repositories/snapshots/</url>
-</snapshotRepository>
-
-
+            <url>http://35.185.104.192:8081/nexus/content/repositories/releases/</url>
+        </repository>
     	</distributionManagement>
 </project>
 
